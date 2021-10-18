@@ -1,0 +1,20 @@
+input.ng-valid {
+  border: 2px solid #00FF00;
+  color: #00FF00;
+}
+input.ng-invalid {
+  border: 2px solid red;
+  color: red;
+}
+
+
+label {
+  display: block;
+}
+
+input {
+  width: 300px;
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
